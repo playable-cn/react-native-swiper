@@ -22,6 +22,9 @@
 > see: [ROADMAP.md](ROADMAP.md)
 
 ## Changelogs
+- **[1.6.1]**
+  - Added support for FlatList components for Android devices
+    - [#1257](https://github.com/leecade/react-native-swiper/pull/1257)
 
 - **[1.6.0-rc]**
   - Dependency
