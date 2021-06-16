@@ -22,6 +22,8 @@
 > see: [ROADMAP.md](ROADMAP.md)
 
 ## Changelogs
+- **[1.6.2]**
+  - using ScrollView from react-native-gesture-handler
 - **[1.6.1]**
   - Added support for FlatList components for Android devices
     - [#1257](https://github.com/leecade/react-native-swiper/pull/1257)
