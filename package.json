@@ -1,11 +1,11 @@
 {
-  "name": "react-native-swiper-playable",
+  "name": "@playable-cn/react-native-swiper",
   "keywords": [
     "react-component",
     "react-native",
     "ios"
   ],
-  "version": "1.6.2",
+  "version": "1.6.3",
   "description": "Swiper component for React Native.",
   "main": "index.js",
   "scripts": {
